@@ -5,7 +5,7 @@
 
 <h3>Estado del Proyecto</h3>
 <h4 align="center">
-:construction: Proyecto en construcción :construction:
+:construction: Proyecto concluido :construction:
 </h4>
 
 <h3>Características de la aplicación </h3>
@@ -23,6 +23,7 @@ Funcionalidades:
 
 <h3>Acceso al Proyecto</h3>
 Puedes acceder al proyecto a través del sig link:
+https://d1egojr.github.io/challenge-amigo-secreto/
 
 <h3>Desarrollador de la aplicación</h3>
 https://github.com/d1egojr
